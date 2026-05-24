@@ -1,0 +1,22 @@
+expense individual
+
+Aishwarya :-
+	4200/-	pune  - ujjain
+	4095/-	indore - pune
+	270/-	food
+	380/-	food
+   -------------
+	8945/-
+--------------------------------------------------------
+Gaurav :-
+	1500/- 	hotel
+	1400/-	hotel
+	8258/-	other
+      ------------
+	11,158/-
+---------------------------------------------------------
+Tejshree :-
+	1500/- card transaction.
+	(---) laddu prasad cash.
+	(---) cash several times.
+	

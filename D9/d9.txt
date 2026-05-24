@@ -1,0 +1,59 @@
+Body                    Longitude (in D-9) Nakshatra Pada Rasi Navamsa
+
+Lagna                    8 Le 26' 54.74"   Magh      3    Le   Ge
+Sun - BK                23 Ge 18' 57.02"   Puna      1    Ge   Ar
+Moon - PiK              27 Li 51' 55.85"   Visa      3    Li   Ge
+Mars - AmK              24 Ta 06' 11.18"   Mrig      1    Ta   Le
+Mercury - MK/PK         28 Le 02' 13.11"   UPha      1    Le   Sg
+Jupiter (R) - AK        11 Ge 07' 04.44"   Ardr      2    Ge   Cp
+Venus - GK              25 Ar 37' 58.76"   Bhar      4    Ar   Sc
+Saturn (R) - DK         19 Ge 53' 59.80"   Ardr      4    Ge   Pi
+Rahu                    13 Ge 33' 32.43"   Ardr      3    Ge   Aq
+Ketu                    13 Sg 33' 32.43"   PSha      1    Sg   Le
+Maandi                  10 Ar 22' 17.88"   Aswi      4    Ar   Cn
+Gulika                  26 Sg 25' 53.67"   PSha      4    Sg   Sc
+Bhava Lagna             19 Li 28' 37.92"   Swat      4    Li   Pi
+Hora Lagna              15 Aq 38' 18.81"   Sata      3    Aq   Aq
+Ghati Lagna              4 Aq 07' 21.49"   Dhan      4    Aq   Sc
+Vighati Lagna            6 Sg 32' 34.87"   Mool      2    Sg   Ta
+Varnada Lagna            8 Cn 26' 54.74"   Push      2    Cn   Vi
+Sree Lagna              10 Pi 49' 02.76"   UBha      3    Pi   Li
+Pranapada Lagna          6 Sg 32' 34.87"   Mool      2    Sg   Ta
+Indu Lagna              27 Cn 51' 55.85"   Asre      4    Cn   Pi
+Bhrigu Bindu            20 Aq 42' 44.14"   PBha      1    Aq   Ar
+Dhooma                  23 Li 18' 57.02"   Visa      1    Li   Ar
+Vyatipata                6 Vi 41' 02.98"   UPha      4    Vi   Pi
+Parivesha                6 Pi 41' 02.98"   UBha      2    Pi   Vi
+Indra Chapa             23 Ar 18' 57.02"   Bhar      3    Ar   Li
+Upaketu                 23 Vi 18' 57.02"   Hast      4    Vi   Cn
+Kaala                   14 Le 21' 14.37"   PPha      1    Le   Le
+Mrityu                  22 Pi 39' 25.19"   Reva      2    Pi   Cp
+Artha Prahara           18 Vi 56' 48.27"   Hast      3    Vi   Ge
+Yama Ghantaka           14 Pi 53' 51.89"   UBha      4    Pi   Sc
+Prana Sphuta             8 Li 40' 27.38"   Swat      1    Li   Sg
+Deha Sphuta              9 Le 21' 20.49"   Magh      3    Le   Ge
+Mrityu Sphuta           28 Le 20' 12.71"   UPha      1    Le   Sg
+Sookshma TriSphuta      16 Cn 22' 00.58"   Push      4    Cn   Sc
+Tithi Sphuta             4 Le 32' 58.83"   Magh      2    Le   Ta
+Yoga Sphuta (Sun-Moon)  21 Cp 10' 52.88"   Srav      4    Cp   Cn
+Rahu Tithi Sphuta       20 Pi 14' 35.40"   Reva      2    Pi   Cp
+Kshetra Sphuta           3 Pi 05' 11.48"   PBha      4    Pi   Cn
+Beeja Sphuta             0 Li 04' 00.23"   Chit      3    Li   Li
+TriSphuta                2 Sg 44' 44.26"   Mool      1    Sg   Ar
+ChatusSphuta            26 Aq 03' 41.29"   PBha      2    Aq   Ta
+PanchaSphuta             9 Ta 37' 13.71"   Krit      4    Ta   Pi
+V2                       8 Le 26' 54.74"   Magh      3    Le   Ge
+V3                       8 Sc 26' 54.74"   Anu       2    Sc   Vi
+V4                       8 Sg 26' 54.74"   Mool      3    Sg   Ge
+V5                       8 Pi 26' 54.74"   UBha      2    Pi   Vi
+V6                       8 Ar 26' 54.74"   Aswi      3    Ar   Ge
+V7                       8 Cn 26' 54.74"   Push      2    Cn   Vi
+V8                       8 Le 26' 54.74"   Magh      3    Le   Ge
+V9                       8 Sc 26' 54.74"   Anu       2    Sc   Vi
+V10                      8 Sg 26' 54.74"   Mool      3    Sg   Ge
+V11                      8 Pi 26' 54.74"   UBha      2    Pi   Vi
+V12                      8 Ar 26' 54.74"   Aswi      3    Ar   Ge
+Kunda                   24 Aq 19' 54.11"   PBha      2    Aq   Ta
+Yoga Sphuta             21 Ta 10' 52.88"   Rohi      4    Ta   Cn
+Avayoga Sphuta          21 Cp 10' 52.88"   Srav      4    Cp   Cn
+
