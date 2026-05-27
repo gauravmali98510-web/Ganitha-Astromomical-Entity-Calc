@@ -85,10 +85,9 @@ void houseCounter:: assignPlanet() {
 	ifstream outfile;
 	vector<string> fileline;
 	string line;
-	// 1. Fetch the path of your current running folder
-	std::filesystem::path current_dir = std::filesystem::current_path();
 
-	// 2. Append the 'D1' folder and 'd1.txt' file to that path
+	std::filesystem::path current_dir = std::filesystem::current_path().parent_path().parent_path().parent_path();
+	
 	std::filesystem::path file_path = current_dir / "D1" / "d1.txt";
 	outfile.open(file_path);
 
@@ -411,7 +410,10 @@ void houseCounter:: assignPlanet() {
 	//*************************************************************
 
 	fileline.clear();
-	outfile.open("..\\D9\\d9.txt");
+	std::filesystem::path current_dir1 = std::filesystem::current_path().parent_path().parent_path().parent_path();
+
+	std::filesystem::path file_path1 = current_dir1 / "D9" / "d9.txt";
+	outfile.open(file_path1);
 	if (outfile.is_open()) {
 		for (int i = 0;i < 15 && getline(outfile, line);i++) {
 			fileline.push_back(line);
@@ -487,7 +489,10 @@ void houseCounter:: assignPlanet() {
 		}
 	}
 	
-	ofstream confirmfile("..\\Report\\confirmfile.txt");
+	std::filesystem::path current_dir2 = std::filesystem::current_path().parent_path().parent_path().parent_path();
+
+	std::filesystem::path file_path2 = current_dir2 / "Report" / "confirmfile.txt";
+	ofstream confirmfile(file_path2);
 	if (confirmfile.is_open()) {
 		confirmfile <<"d1lagna :-" << to_string(d1Lagna) << endl;
 		confirmfile << "d1sun :-" << to_string(d1sun) << endl;

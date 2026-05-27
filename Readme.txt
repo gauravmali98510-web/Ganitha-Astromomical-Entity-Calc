@@ -1,0 +1,1 @@
+In this project you will get the list all arushas in report folder in aruda.txt file
